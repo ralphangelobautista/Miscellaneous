@@ -1,0 +1,122 @@
+npm WARN using --force I sure hope you know what you are doing.
+Updated 3 taps (homebrew/cask-versions, homebrew/core and homebrew/cask).
+==> New Formulae
+alsa-lib
+==> Updated Formulae
+asciidoctorj
+awscli
+balena-cli
+bandwhich
+basex
+bear
+byacc
+calicoctl
+circleci
+consul
+cromwell
+dar
+dhall
+dhall-bash
+dhall-json
+dhall-lsp-server
+dhall-yaml
+diskonaut
+docker-compose-completion
+duck
+erlang
+exploitdb
+fluent-bit
+glib-networking
+go-jira
+haxe
+helmfile
+json-glib
+kubeaudit
+librsvg
+libssh
+mcabber
+metabase
+navi
+node-build
+numpy
+phpunit
+prometheus
+rke
+simple-scan
+wgcf
+wgetpaste
+z3
+z80dasm
+zint
+==> New Casks
+dropbox-passwords
+medibangpaintpro
+mic-drop
+==> Updated Casks
+aws-vault
+balenaetcher
+brave-browser
+brave-browser-dev
+bunch
+caprine
+cellprofiler
+clash-for-windows
+clockify
+electron
+electrum
+epichrome
+fantastical
+fitbit-os-simulator
+foxitreader
+futuniuniu
+gitkraken
+grandtotal
+ibm-cloud-cli
+jami
+little-snitch
+mactracker
+marvin
+metasploit
+microsoft-edge-beta
+minitube
+odrive
+parallels-virtualization-sdk
+popo
+progressive-downloader
+qownnotes
+ringcentral
+rstudio-preview
+securityspy
+shift
+signal
+signal-beta
+standard-notes
+steermouse
+studio-3t
+syncthing
+tencent-meeting
+thebrain
+usenapp
+vellum
+vscodium
+workflowy
+wormhole
+Updating Homebrew...
+==> Upgrading 1 outdated package:
+awscli 2.0.46 -> 2.0.48
+==> Upgrading awscli 2.0.46 -> 2.0.48 
+==> Downloading https://homebrew.bintray.com/bottles/awscli-2.0.48.mojave.bottle.tar.gz
+==> Pouring awscli-2.0.48.mojave.bottle.tar.gz
+==> Caveats
+The "examples" directory has been installed to:
+  /usr/local/share/awscli/examples
+
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+
+zsh completions and functions have been installed to:
+  /usr/local/share/zsh/site-functions
+==> Summary
+🍺  /usr/local/Cellar/awscli/2.0.48: 11,983 files, 85.9MB
+Removing: /usr/local/Cellar/awscli/2.0.46... (11,807 files, 83.9MB)
+Updating Homebrew...
